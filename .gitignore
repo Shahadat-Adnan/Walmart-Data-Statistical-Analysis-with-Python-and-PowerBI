@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter
+.virtual_documents/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI temp/lock files
+~$*.pbix
+*.pbix.lock
+
+# Environment
+.env
